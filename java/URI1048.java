@@ -19,7 +19,7 @@ public class URI1048 {
         }else {
             percentual = 4;
         }
-        novoSalario = salario + (salario*percentual/100);
+        novoSalario = salario + (salario * percentual / 100);
         System.out.printf("Novo salario: %.2f\n",novoSalario);
         System.out.printf("Reajuste ganho: %.2f\n",(novoSalario - salario));
         System.out.println("Em percentual: " + percentual + " %");
