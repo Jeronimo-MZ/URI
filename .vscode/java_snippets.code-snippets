@@ -21,5 +21,19 @@
 		"body": [
 			"Scanner teclado = new Scanner(System.in);"
 		]
+	},
+	"Layout Básico":{
+		"scope": "java",
+		"prefix": "javaClass",
+		"body": [
+			"import java.util.Scanner;",
+			"public class $1 {",
+			"\tpublic static void main(String[] args) {",
+			"\t\tScanner teclado = new Scanner(System.in);",
+			"\t\t$2",
+			"\t}",
+			"}"
+		]
+	
 	}
 }
