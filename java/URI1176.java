@@ -12,6 +12,7 @@ public class URI1176 {
             N = teclado.nextInt();
             fib = fibonacci(N);
             System.out.println("Fib(" + N + ") = " + fib);
+            teclado.close();
         }
         
     }
@@ -31,6 +32,5 @@ public class URI1176 {
             }
         }
         return fib;
-
     }
 }

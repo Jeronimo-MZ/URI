@@ -9,7 +9,8 @@ public class URI1144 {
             cubo = i * i * i;
             System.out.printf("%d %d %d\n", i, quadrado, cubo);
             System.out.printf("%d %d %d\n", i, ++quadrado, ++cubo);
-
         }
+        teclado.close();
+
     }
 }

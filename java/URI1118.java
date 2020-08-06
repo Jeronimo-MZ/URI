@@ -23,5 +23,6 @@ public class URI1118 {
                 opcao = input.nextInt();
             }while(opcao != 1 && opcao != 2);
         } while(opcao == 1);
+        input.close();
     }
 }

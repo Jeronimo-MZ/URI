@@ -14,5 +14,6 @@ public class URI1043 {
             area = (a+b)*c/2;
             System.out.printf("Area = %.1f\n", area);
         }
+        teclado.close();
     }
 }

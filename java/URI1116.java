@@ -14,5 +14,6 @@ public class URI1116 {
                 System.out.println("divisao impossivel");
             }
         }
+        teclado.close();
     }
 }

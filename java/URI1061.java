@@ -76,6 +76,7 @@ public class URI1061 {
         System.out.println(horas + " hora(s)");
         System.out.println(minutos + " minuto(s)");
         System.out.println(segundos + " segundo(s)");
+        teclado.close();
     }
     
 }

@@ -16,5 +16,6 @@ public class URI1132 {
             }
         }
         System.out.println(soma);
+        teclado.close();
     }
 }

@@ -35,5 +35,6 @@ public class URI1049 {
                 System.out.println("minhoca");
             }
         }
+        input.close();
     }
 }

@@ -11,6 +11,6 @@ public class URI1114 {
                 System.out.println("Senha Invalida");
             }
         }while (senha != 2002);
-
+        teclado.close();
     }
 }

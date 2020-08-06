@@ -26,5 +26,6 @@ public class URI1038{
                 break;
         }
         System.out.printf("Total: R$ %.2f\n",total);
+        input.close();
     }
 }

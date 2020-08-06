@@ -19,5 +19,6 @@ public class URI1158 {
             } while(contador < Y);
             System.out.println(soma);
         }
+        teclado.close();
     }
 }

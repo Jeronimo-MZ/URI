@@ -11,6 +11,6 @@ public class URI1174 {
                 System.out.printf("A[%d] = %.1f\n", i,N[i]);
             }
         }
-
+        teclado.close();
     }
 }

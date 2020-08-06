@@ -13,6 +13,6 @@ public class URI1070 {
             n += 2;
             cont++;
         }while(cont<=6);
-        
+        input.close();
     }
 }

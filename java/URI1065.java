@@ -13,5 +13,6 @@ public class URI1065 {
             }
         }
         System.out.println(pares + " valores pares");
+        teclado.close();
     }
 }

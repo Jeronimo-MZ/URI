@@ -10,5 +10,6 @@ public class URI1067 {
         for (int i = 1; i <= x; i += 2) {
             System.out.println(i);
         }
+        teclado.close();
     }
 }

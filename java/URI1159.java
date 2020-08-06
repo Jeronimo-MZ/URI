@@ -17,5 +17,6 @@ public class URI1159 {
                 System.out.println(soma);
             }
         }while(X !=0);
+        teclado.close();
     }
 }

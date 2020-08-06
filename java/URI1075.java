@@ -8,5 +8,6 @@ public class URI1075 {
                 System.out.println(i);
             }
         }
+        teclado.close();
     }
 }

@@ -22,6 +22,7 @@ public class URI1037{
                 }
             }
         }
+        input.close();
 
     }
 

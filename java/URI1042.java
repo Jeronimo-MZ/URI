@@ -27,5 +27,6 @@ public class URI1042 {
         System.out.println(N1);
         System.out.println(N2);
         System.out.println(N3);
+        teclado.close();
     }
 }

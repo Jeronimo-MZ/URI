@@ -14,6 +14,7 @@ public class URI1020 {
         System.out.printf("%d ano(s)\n",anos);
         System.out.printf("%d mes(es)\n",meses);
         System.out.printf("%d dia(s)\n",dias);
+        input.close();
 
     }
 }

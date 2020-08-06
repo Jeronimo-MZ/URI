@@ -16,6 +16,6 @@ public class URI1133 {
                 System.out.println(i);
             }
         }
+        teclado.close();
     }
-    
 }

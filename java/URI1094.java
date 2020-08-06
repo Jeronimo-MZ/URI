@@ -37,5 +37,6 @@ public class URI1094 {
         System.out.println(" %");
         System.out.printf("Percentual de sapos: %.2f", (sapos * 100.0f / total));
         System.out.println(" %");
+        input.close();
     }
 }

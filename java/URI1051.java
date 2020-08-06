@@ -21,6 +21,6 @@ public class URI1051 {
         } else{
             System.out.println("Isento");
         }
+        teclado.close();
     }
-    
 }

@@ -13,6 +13,7 @@ public class URI1079 {
             System.out.printf("%.1f\n", media);
             i++;
         } while(i < N);
+        teclado.close();
     }
     
 }

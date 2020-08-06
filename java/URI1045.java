@@ -50,7 +50,6 @@ public class URI1045 {
                 System.out.println("TRIANGULO ISOSCELES");
             }
         }
+        input.close();
     }
-
-
 }

@@ -8,6 +8,6 @@ public class URI1153 {
             factorial *= i;
         }
         System.out.println(factorial);
-
+        teclado.close();
     }
 }

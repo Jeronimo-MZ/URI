@@ -25,5 +25,6 @@ public class URI1134 {
         System.out.println("Alcool: " + alcool);
         System.out.println("Gasolina: " + gasolina);
         System.out.println("Diesel: " + diesel);
+        teclado.close();
     }
 }

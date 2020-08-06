@@ -17,5 +17,6 @@ public class URI1064 {
         media /= positivos;
         System.out.println(positivos + " valores positivos");
         System.out.printf("%.1f\n",media);
+        teclado.close();
     }
 }

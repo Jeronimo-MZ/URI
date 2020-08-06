@@ -17,6 +17,6 @@ public class URI1146 {
                 System.out.println();
             }
         }while(X != 0);
+        teclado.close();
     }
-
 }

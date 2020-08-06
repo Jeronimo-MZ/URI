@@ -15,11 +15,11 @@ public class URI1040 {
         media = ((N1*2) + (N2*3) + (N3*4) + (N4*1)) / 10.0;
         
         if (media*10 - Math.floor(media*10) > 0.5001) {
-          media = Math.ceil(media*10)/10;
+            media = Math.ceil(media*10)/10;
         }
 
         else {
-           media = Math.floor(media*10)/10;
+            media = Math.floor(media*10)/10;
         }
 
 
@@ -41,6 +41,7 @@ public class URI1040 {
             
             System.out.printf("Media final: %.1f\n",media);
         }
+        teclado.close();
 
     }
 }

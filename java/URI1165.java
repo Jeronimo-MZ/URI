@@ -13,6 +13,6 @@ public class URI1165 {
             }
             System.out.println(X + ((divisores ==2 )?" eh primo" : " nao eh primo"));
         }
+        teclado.close();
     }
-    
 }

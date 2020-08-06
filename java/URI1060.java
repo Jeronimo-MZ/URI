@@ -11,5 +11,6 @@ public class URI1060 {
             }
         }
         System.out.println(positivos + " valores positivos");
+        input.close();
     }
 }

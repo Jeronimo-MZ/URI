@@ -29,5 +29,6 @@ public class URI1044 {
         }else{
             System.out.println("Nao sao Multiplos");
         }
+        input.close();
     }
 }

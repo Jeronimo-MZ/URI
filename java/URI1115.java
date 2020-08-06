@@ -19,6 +19,7 @@ public class URI1115 {
             }
 
         }while ( x != 0 && y != 0);
+        teclado.close();
     }
     
 }

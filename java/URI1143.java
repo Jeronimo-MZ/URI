@@ -6,7 +6,6 @@ public class URI1143 {
         for (int i= 1; i <= N; i++){
             System.out.println(i + " " + (i * i) + " " + ( i * i * i));
         }
-
+        teclado.close();
     }
-    
 }

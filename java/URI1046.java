@@ -15,5 +15,6 @@ public class URI1046 {
             tempo = fim - inicio;
         }
         System.out.println("O JOGO DUROU " + tempo + " HORA(S)");
+        input.close();
     }
 }

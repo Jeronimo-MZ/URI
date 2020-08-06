@@ -33,6 +33,6 @@ public class URI1131 {
         }else{
             System.out.println("Nao houve vencedor");
         }
-
+        teclado.close();
     }
 }

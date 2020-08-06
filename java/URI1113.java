@@ -13,6 +13,7 @@ public class URI1113 {
                 System.out.println("Crescente");
             }
         }while (x != y);
+        teclado.close();
     }
     
 }

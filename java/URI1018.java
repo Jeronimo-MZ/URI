@@ -36,7 +36,7 @@ public class URI1018 {
         System.out.printf("%d nota(s) de R$ 2,00\n", nota2);
         System.out.printf("%d nota(s) de R$ 1,00\n", nota1);
 
-
+        teclado.close();
     }
     
 }

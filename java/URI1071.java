@@ -18,6 +18,7 @@ public class URI1071 {
             }
         }
         System.out.println(soma);
+        teclado.close();
     }
 }
 

@@ -31,6 +31,8 @@
 			"\tpublic static void main(String[] args) {",
 			"\t\tScanner teclado = new Scanner(System.in);",
 			"\t\t$2",
+			"",
+			"\t\tteclado.close();",
 			"\t}",
 			"}"
 		]

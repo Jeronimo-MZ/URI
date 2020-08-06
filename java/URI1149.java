@@ -12,5 +12,6 @@ public class URI1149 {
             soma += A+i;
         }
         System.out.println(soma);
+        teclado.close();
     }
 }

@@ -14,5 +14,6 @@ public class URI1080 {
             }
         }
         System.out.println(maior+"\n" + (pos + 1));
+        teclado.close();
     }
 }

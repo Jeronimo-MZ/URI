@@ -17,5 +17,6 @@ public class URI1117 {
         }while(i < 2);
         media /= 2;
         System.out.printf("media = %.2f\n",media);
+        teclado.close();
     }
 }

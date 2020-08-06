@@ -15,5 +15,6 @@ class URI1035{
         else{
             System.out.println("Valores nao aceitos");
         }
+        input.close();
     }
 }

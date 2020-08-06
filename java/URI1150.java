@@ -14,7 +14,6 @@ public class URI1150 {
             i++;
         }while(soma <= Z);
         System.out.println(i);
-
-
+        teclado.close();
     }
 }

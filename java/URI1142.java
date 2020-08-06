@@ -11,5 +11,6 @@ public class URI1142 {
             num += 2;
             i++;
         }while (i < N);
+        teclado.close();
     }
 }

@@ -33,6 +33,7 @@ public class URI1050 {
                 System.out.println("DDD nao cadastrado");
 
         }
+        teclado.close();
     }
     
 }

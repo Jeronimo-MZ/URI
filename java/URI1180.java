@@ -20,7 +20,6 @@ public class URI1180 {
         }
         System.out.println("Menor valor: " + menor);
         System.out.println("Posicao: " + pos);
-
+        teclado.close();
     }
-    
 }

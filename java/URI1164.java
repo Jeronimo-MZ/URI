@@ -15,6 +15,6 @@ public class URI1164 {
             System.out.print(valor);
             System.out.println((soma == valor) ?" eh perfeito":" nao eh perfeito");
         }
-
+        teclado.close();
     }
 }

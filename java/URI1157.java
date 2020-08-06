@@ -9,5 +9,7 @@ public class URI1157 {
                 System.out.println(i);
             }
         }
+        teclado.close();
+
     }
 }

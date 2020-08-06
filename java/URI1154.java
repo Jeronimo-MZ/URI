@@ -12,5 +12,6 @@ public class URI1154 {
         }
         media = soma /i;
         System.out.printf("%.2f\n",media);
+        teclado.close();
     }
 }

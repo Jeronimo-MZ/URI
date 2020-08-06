@@ -17,6 +17,6 @@ public class URI1175 {
         for (int i = 0; i < 20; i++) {
             System.out.printf("N[%d] = %d\n", i,N[i]);
         }
-    }
-    
+        teclado.close();
+    }   
 }

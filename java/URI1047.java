@@ -30,5 +30,6 @@ public class URI1047 {
         }
 
         System.out.println("O JOGO DUROU " + horas + " HORA(S) E " + minutos + " MINUTO(S)");
+        teclado.close();
     }
 }

@@ -22,5 +22,6 @@ public class URI1101 {
                 System.out.println("Sum="+soma);
             }
         } while( m > 0 && n > 0);
+        input.close();
     }
 }

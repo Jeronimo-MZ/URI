@@ -25,7 +25,7 @@ public class URI1151 {
             }else{
                 System.out.print(fib + " ");
             }
-            
         }
+        teclado.close();
     }
 }
